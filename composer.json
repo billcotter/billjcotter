@@ -31,6 +31,7 @@
     },
     "require-dev": {
         "drupal/devel": "^1.0",
+        "geerlingguy/drupal-vm": "^4.8",
         "webflo/drupal-core-require-dev": "~8.5.1"
     },
     "conflict": {
